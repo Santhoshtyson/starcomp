@@ -1,0 +1,5 @@
+{
+  "name": "Star Health Competitor Analysis Tool",
+  "description": "An internal web application for Star Health sales agents to perform real-time, side-by-side comparisons of Star Health insurance policies against key competitors. Data is sourced from an internal competitor analysis report.",
+  "requestFramePermissions": []
+}
